@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Burger-Builder/static/css/main.2884cb5b.css",
+    "main.js": "/Burger-Builder/static/js/main.f8ceb0f5.js",
+    "static/js/787.6a6096fd.chunk.js": "/Burger-Builder/static/js/787.6a6096fd.chunk.js",
+    "static/media/burger-logo.png": "/Burger-Builder/static/media/burger-logo.ec69c7f65e6d7565759f.png",
+    "index.html": "/Burger-Builder/index.html",
+    "main.2884cb5b.css.map": "/Burger-Builder/static/css/main.2884cb5b.css.map",
+    "main.f8ceb0f5.js.map": "/Burger-Builder/static/js/main.f8ceb0f5.js.map",
+    "787.6a6096fd.chunk.js.map": "/Burger-Builder/static/js/787.6a6096fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2884cb5b.css",
+    "static/js/main.f8ceb0f5.js"
+  ]
+}
